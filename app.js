@@ -1,7 +1,7 @@
 let config = require('./config.json');
 const rq = require('prequest');
 
-const hearts = ["❤", "💜", "💛", "💚", "💙", "🖤"];
+const hearts = ["❤t", "💜", "💛", "💚", "💙", "🖤"];
 
 setInterval(() => {
 	config.tokens.map(x => {
