@@ -1,10 +1,7 @@
 {
-	"tokens": [
-		"token...",
-		"token...",
-		"token..."
-	],
-	"owner_id": 540629911,
-	"post_id": 236,
-	"cd": 15000
+    "access_token": "ТОКЕН ПАБЛИКА",
+    "post": {
+        "owner_id": 635541571,
+        "post_id": 10
+    }
 }

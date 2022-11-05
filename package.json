@@ -1,17 +1,12 @@
 {
-  "name": "spam-vk",
+  "name": "cheat_comments",
   "version": "1.0.0",
-  "description": "Накрутка комментариев на пост от имени сообщества для ВК",
+  "description": "",
   "main": "app.js",
-  "dependencies": {
-    "prequest": "^1.0.0",
-    "prompt": "^1.0.0",
-    "promt": "^0.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kikibyk",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }
